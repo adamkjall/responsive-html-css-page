@@ -1,0 +1,38 @@
+/** Medium Screen **/
+@media only screen and (min-width: 751px) {
+  /* HEADER */
+  .navbar-container {
+    max-width: 750px;
+  }
+
+  /* MAIN */
+  .hero > h1 {
+    font-size: 4rem;
+    margin-bottom: .7rem;
+  }
+
+  /* FOOTER */
+  footer {
+    height: 75vh;
+  }
+
+  .footer-section {
+    max-width: 750px;
+    margin: 0 auto;
+  }
+
+  .footer-links {
+    flex-direction: row;
+    height: 50%;
+  }
+
+  .footer-links ul {
+    width: 33%;
+  }
+
+  .footer-bottom-section {
+    max-width: 750px;
+    margin: 0 auto;
+    font-size: .7rem;
+  }
+}
