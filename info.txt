@@ -1,0 +1,9 @@
+Inlämningsuppgift 1 - återskapa en hemsida
+
+Av Emma Andersson och Adam Kjäll
+
+Spotify (https://www.spotify.com/se/)
+
+Vi har valt att återskapa hemsidan till världens stärsta online-musiktjänst; Spotify.
+En hemsida som tillåter användare att lyssna på musik, podcasts och se videoklipp.
+Valet av hemsida kändes kul och utmanande, vi båda är användare utav Spotify.
